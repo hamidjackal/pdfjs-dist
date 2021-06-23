@@ -1,5 +1,5 @@
 {
-  "name": "pdfjs-dist",
+  "name": "@htpdfjs/consmart",
   "version": "2.9.359",
   "main": "build/pdf.js",
   "types": "types/pdf.d.ts",
